@@ -413,7 +413,7 @@ Instead of spending hours updating prerequisites manually, staff can focus on hi
 ## Picture of Before ##
 ```
 
-Screenshot showing manual prerequisite entry within Banner.
+![Before Execution](before_prereq.jpg)
 
 ---
 
@@ -423,7 +423,7 @@ Screenshot showing manual prerequisite entry within Banner.
 ## Picture of Automation Running ##
 ```
 
-Screenshot showing Selenium processing multiple CRNs.
+![Execution](execution_prereq.jpg)
 
 ---
 
@@ -433,7 +433,7 @@ Screenshot showing Selenium processing multiple CRNs.
 ## Picture of After ##
 ```
 
-Screenshot showing successfully updated prerequisite records.
+![After Execution](after_prereq.jpg)
 
 ---
 
