@@ -405,9 +405,9 @@ Instead of spending hours updating prerequisites manually, staff can focus on hi
 
 ---
 
-## Recommended Portfolio Visuals
+## Procedure Visuals
 
-### Banner Manual Process
+### Before Execution Process
 
 ```text
 ## Picture of Before ##
